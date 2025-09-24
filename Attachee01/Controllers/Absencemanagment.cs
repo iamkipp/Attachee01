@@ -2,9 +2,10 @@
 {
     public class Absencemanagment
     {
+        public Absencemanagment() {
         
-        
-            // Method implementation 001
+            // Method implementation 001 
      
     }
+}
 }
